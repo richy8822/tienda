@@ -11,6 +11,10 @@
       <?php echo "hola"; ?>
 
     </div>
+    <div class="fondo">
+      <?php echo "adios"; ?>
+
+    </div>
 
   </body>
 </html>
