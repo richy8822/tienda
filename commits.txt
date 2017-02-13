@@ -1,0 +1,17 @@
+commit 48f0c3234c717ae2eca70860a2fbf444f380a233
+Author: Ricard <developer2@swingmaniacs.com>
+Date:   Mon Feb 13 14:37:02 2017 +0100
+
+    hemos dados diferentes colores
+
+commit 79819ef6b53b1b5df4d183dcf82800b60010811d
+Author: Ricard <developer2@swingmaniacs.com>
+Date:   Mon Feb 13 14:33:13 2017 +0100
+
+    agregamos adios
+
+commit e925b7ebf37c48588a735887bf01c24a12bdd0b5
+Author: Ricard <developer2@swingmaniacs.com>
+Date:   Mon Feb 13 14:30:44 2017 +0100
+
+    Iniciemos

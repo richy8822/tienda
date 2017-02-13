@@ -7,11 +7,11 @@
     <link rel="stylesheet" type="text/css" href="styles.css">
   </head>
   <body>
-    <div class="fondo">
+    <div class="fondoAzul">
       <?php echo "hola"; ?>
 
     </div>
-    <div class="fondo">
+    <div class="fondoAmarillo">
       <?php echo "adios"; ?>
 
     </div>
