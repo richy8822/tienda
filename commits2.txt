@@ -1,0 +1,17 @@
+commit 71461728fbae91363be4fb7a0a947823584a8805
+Author: Ricard <developer2@swingmaniacs.com>
+Date:   Mon Feb 13 14:53:54 2017 +0100
+
+    bueno2
+
+commit 79819ef6b53b1b5df4d183dcf82800b60010811d
+Author: Ricard <developer2@swingmaniacs.com>
+Date:   Mon Feb 13 14:33:13 2017 +0100
+
+    agregamos adios
+
+commit e925b7ebf37c48588a735887bf01c24a12bdd0b5
+Author: Ricard <developer2@swingmaniacs.com>
+Date:   Mon Feb 13 14:30:44 2017 +0100
+
+    Iniciemos
