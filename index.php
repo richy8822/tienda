@@ -21,5 +21,8 @@
     <div class="fondMarron">
       <?php echo "buenas de marronwef we ewr ewrwerwe r"; ?>
     </div>
+    <div class="fondMarron">
+      <?php echo "Instagram"; ?>
+    </div>
   </body>
 </html>
