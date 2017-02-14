@@ -1,8 +1,8 @@
-commit 48f0c3234c717ae2eca70860a2fbf444f380a233
+commit 71461728fbae91363be4fb7a0a947823584a8805
 Author: Ricard <developer2@swingmaniacs.com>
-Date:   Mon Feb 13 14:37:02 2017 +0100
+Date:   Mon Feb 13 14:53:54 2017 +0100
 
-    hemos dados diferentes colores
+    bueno2
 
 commit 79819ef6b53b1b5df4d183dcf82800b60010811d
 Author: Ricard <developer2@swingmaniacs.com>
