@@ -8,18 +8,18 @@
   </head>
   <body>
     <div class="fondoAzul">
-      <?php echo "hola"; ?>
+      <?php echo "lorem ipsum"; ?>
 
     </div>
     <div class="fondoAmarillo">
-      <?php echo "adios"; ?>
+      <?php echo "adiosasdfqdaqgq"; ?>
 
     </div>
     <div class="fondoverde">
-      <?php echo "buenas de nuevo"; ?>
+      <?php echo "buenas de nuevowf e w efwer we we "; ?>
     </div>
     <div class="fondMarron">
-      <?php echo "buenas de marron"; ?>
+      <?php echo "buenas de marronwef we ewr ewrwerwe r"; ?>
     </div>
   </body>
 </html>
