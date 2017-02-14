@@ -17,7 +17,6 @@
     </div>
     <div class="fondoverde">
       <?php echo "buenas de nuevo"; ?>
-
     </div>
 
   </body>
