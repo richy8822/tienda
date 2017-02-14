@@ -18,6 +18,8 @@
     <div class="fondoverde">
       <?php echo "buenas de nuevo"; ?>
     </div>
-
+    <div class="fondMarron">
+      <?php echo "buenas de marron"; ?>
+    </div>
   </body>
 </html>
